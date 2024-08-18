@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
